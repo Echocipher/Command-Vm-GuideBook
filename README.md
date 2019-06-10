@@ -16,3 +16,4 @@ blog：https://www.jianshu.com/u/1f2643f05298
 附《[中华人民共和国网络安全法](http://www.npc.gov.cn/npc/xinwen/2016-11/07/content_2001605.htm)》。
 
 ## Command-Vm ##
+![Command-Vm]（https://github.com/Echocipher/Command-Vm-GuideBook/blob/master/Pic/Commando.png）
