@@ -25,8 +25,6 @@ Welcome to CommandoVM - a fully customized, Windows-based security distribution 
 
 ## 工具列表 ##
 
-### Active Directory Tools ###
-
 ```
 ├─Active Directory Tools
 │      Administration Tools.lnk
@@ -301,3 +299,24 @@ Welcome to CommandoVM - a fully customized, Windows-based security distribution 
         fuzzdb.lnk
         PayloadsAllTheThings.lnk
 ```
+### Active Directory Tools ###
+
+```
+    Administration Tools.lnk
+    sqlcmd.lnk
+    Sysinternals.lnk
+```
+
+待整理
+
+### Command & Control ###
+
+#### Covenant ####
+
+[项目地址](https://github.com/cobbr/Covenant)
+
+待整理
+
+
+
+
